@@ -1,41 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<url>https://play.google.com/store/search?q=maps&c=apps</url>
+<url>https://play.google.com/store/search?q=usc&c=apps</url>
 <tokens>
-<token></token>
-<token></token>
-<token></token>
-<token></token>
-<token></token>
+    <token></token>
+    <token>GAEiAggU:S:ANO1ljLtUJw</token>
+    <token>GAEiAggo:S:ANO1ljIeRQQ</token>
+    <token>GAEiAgg8:S:ANO1ljIM1CI</token>
+    <token>GAEiAghQ:S:ANO1ljLxWBY</token>
+    <token>GAEiAghk:S:ANO1ljJkC4I</token>
+    <token>GAEiAgh4:S:ANO1ljJfGC4</token>
+    <token>GAEiAwiMAQ==:S:ANO1ljL7Yco</token>
+    <token>GAEiAwigAQ==:S:ANO1ljLMTko</token>
 </token>
 <allowed>
-    <id></id>
-        <id>1</id>    
-        <name>Margherita</name>
-        <cost>155</cost>
-        <description>Single cheese topping</description>
-    </item> 
-    <item>
-        <id>2</id>    
-        <name>Double Cheese Margherita</name>
-        <cost>225</cost>
-        <description>Loaded with Extra Cheese</description>
-    </item> 
-    <item>
-        <id>3</id>    
-        <name>Fresh Veggie</name>
-        <cost>110</cost>
-        <description>Oninon and Crisp capsicum</description>
-    </item> 
-    <item>
-        <id>4</id>    
-        <name>Peppy Paneer</name>
-        <cost>155</cost>
-        <description>Paneer, Crisp capsicum and Red pepper</description>
-    </item> 
-    <item>
-        <id>5</id>    
-        <name>Mexican Green Wave</name>
-        <cost>445</cost>
-        <description>Onion, Crip capsicum, Tomato with mexican herb</description>
-    </item> 
-</menu>
+    <id>com.nga.uscgameday</id>
+    <id>com.nga.projecttrojan</id>
+    <id>com.andromo.dev86290.app239265</id>
+    <id>com.phonegap.USCTSP</id>
+    <id>com.zeke.uscmaps</id>
+    <id>com.usc.msw</id>
+    <id>edu.usc.ict.vhtalktome</id>
+    <id>com.usc.commencement</id>
+    <id>ncaa.logolwp_usc</id>
+    <id>com.texterity.android.USCDornsife</id>
+    <id>com.dailybreeze.insideusc</id>
+    <id>com.a1467699751564aa77d4b40a.a24687092a</id>
+    <id>com.kpt.southern_california</id>
+    <id>com.jwaala.mobile.usccu</id>
+    <id>com.kpt.college.addon.theme.uscDark</id>
+    <id>com.a395784173501dba8a8ae766a.a59406808a</id>
+    <id>com.Samuel_Bryant.USC_Drift</id>
+    <id>com.vinasource.usc</id>
+    <id>com.app_uscbars.layout</id>
+    <id>org.uscradio.kusc</id>
+    <id>com.smartleges.doc.usct14</id>
+    <id>com.twothumbz.gameday_usc</id>
+    <id>com.affinity.usc_college</id>
+    <id>com.tricedesigns</id>
+    <id>com.u360mobile.uscaiken</id>
+    <id>com.kaboserv.uslaw.usc18</id>
+    <id>au.edu.usc.campustour</id>
+    <id>com.kaboserv.uslaw.usc21</id>
+    <id>com.bigtwit.droidlaw.addon.usc</id>
+    <id>tunein.player</id>
+    <id>com.spreedinc.providers.mcclatchyinteractive.gogamecocksusc</id>
+    <id>com.superfanu.southcarolina</id>
+    <id>com.seatgeek.android</id>
+    <id>com.wkdk.player</id>
+    <id>edu.usc.ekrane.todotimer</id>
+    <id>com.snaps.bradz.usc_torjan_keyboard</id>
+    <id>com.bredir.boopsie.uschsl</id>
+    <id>life.belt.gb3d</id>
+    <id>com.appmajik.uscoweek</id>
+    <id>com.twothumbz.gamedayallinonefree</id>
+    <id>com.apptivateme.next.la</id>
+    <id>com.waspmobile.gdc</id>
+    <id>com.smartnds.emulator</id>
+    <id>com.pac_12.android_player</id>
+    <id>animaonline.android.snes.emu</id>
+    <id>com.lonict.android.tonoradio</id>
+    <id>com.bigtwit.dlaw.main</id>
+    <id>com.mobisystems.msdict.embedded.wireless.mcgrawhill.engspmedical</id>
+    <id>us.nintendods.emulator.free</id>
+    <id>com.uscfstheme</id>
+    <id>com.smartgba.emulator</id>
+    <id>com.twothumbz.CollegeFightSong_Android_USC</id>
+    <id>hr.apps.n206960411</id>
+    <id>com.AppTriple.Urdu.Aikankhwaladajal.dajjal.kayamat</id>
+    <id>com.isnes.lite</id>
+    <id>com.AsylumBoundGames.TerminatorVR</id>
+    <id>com.twinklewinkleapps.title45</id>
+    <id>com.twinklewinkleapps.title20</id>
+    <id>com.twinklewinkleapps.title17</id>
+    <id>com.twinklewinkleapps.title25</id>
+    <id>com.twinklewinkleapps.title16</id>
+    <id>com.twinklewinkleapps.title9</id>
+    <id>com.twinklewinkleapps.title7</id>
+    <id>twothumbz.ncaa.logolwptj</id>
+    <id>ncaa.logolwp</id>
+    <id>com.andromo.dev130378.app175237</id>
+    <id>com.hegemonysoftware.uscmap</id>
+    <id>com.usc.mat</id>
+    <id>us.pretendo.n64.emulator.free</id>
+    <id>changelogs.cmx.product.cyanogenlogscardview</id>
+    <id>com.smartPhones.clockwidget.ncaa.live.southCarolina_AND</id>
+    <id>nl.tizin.usc</id>
+    <id>com.twinklewinkleapps.title38</id>
+    <id>fishnoodle.ncaa_helmet</id>
+    <id>com.softnds.emulator</id>
+    <id>com.allhunterguns.punish</id>
+    <id>fishnoodle.ncaa_helmet_usc</id>
+    <id>com.guidebook.apps.UofSC.android</id>
+    <id>com.twothumbz.gdc</id>
+    <id>com.lsatmax</id>
+    <id>com.twinklewinkleapps.title10</id>
+    <id>com.twinklewinkleapps.title14</id>
+    <id>com.twinklewinkleapps.title27</id>
+    <id>com.twinklewinkleapps.title2</id>
+    <id>com.twinklewinkleapps.title39</id>
+    <id>com.twinklewinkleapps.title32</id>
+    <id>com.twinklewinkleapps.title3</id>
+    <id>com.twinklewinkleapps.title49</id>
+    <id>com.smartleges.doc.usct11</id>
+    <id>com.hahasoftware.ndsstory</id>
+    <id>com.kpt.college.addon.theme.usc_helmet</id>
+    <id>com.usc</id>
+    <id>yu.bodnar.transformercalc</id>
+    <id>com.twinklewinkleapps.title24</id>
+    <id>gul.hadees.wv</id>
+    <id>com.twinklewinkleapps.title31</id>
+    <id>com.twinklewinkleapps.title21</id>
+    <id>com.v1_4.B8BD33E9AAC03563686BD5A6.com</id>
+    <id>com.twinklewinkleapps.title1</id>
+    <id>com.tui.congreso</id>
+    <id>com.biezegames.nes</id>
+    <id>com.top25march.vids</id>
+    <id>org.savekusf.savekusf</id>
+    <id>xdk.intel.ppprf</id>
+    <id>com.twinklewinkleapps.title22</id>
+    <id>com.twinklewinkleapps.title50</id>
+    <id>com.twinklewinkleapps.title48</id>
+    <id>com.twinklewinkleapps.title36</id>
+    <id>com.twinklewinkleapps.title33</id>
+    <id>com.twinklewinkleapps.title4</id>
+    <id>com.munyanmedia.dailyfails</id>
+    <id>com.nobexinc.wls_41839029.rc</id>
+    <id>com.rankings.universities.world</id>
+    <id>com.twinklewinkleapps.title6</id>
+    <id>com.twinklewinkleapps.title11</id>
+    <id>com.twinklewinkleapps.title51</id>
+    <id>com.smartleges.doc.usct18</id>
+    <id>com.twinklewinkleapps.title41</id>
+    <id>com.twinklewinkleapps.title19</id>
+    <id>com.twinklewinkleapps.title8</id>
+    <id>com.tiny.m6b655ea575374ab5bc4e385aede1671e</id>
+    <id>com.diakhate.americanuniversities</id>
+    <id>com.blackcatworks.touchtax</id>
+    <id>com.twinklewinkleapps.title12</id>
+    <id>com.smartleges.doc.usct28</id>
+    <id>app.escavo.thecc</id>
+    <id>com.twinklewinkleapps.title35</id>
+    <id>com.twinklewinkleapps.title5</id>
+    <id>com.smartleges.doc.usct19</id>
+    <id>com.twinklewinkleapps.title30</id>
+    <id>com.twinklewinkleapps.title28</id>
+    <id>com.kyocera.duraforceusc</id>
+    <id>com.twinklewinkleapps.title46</id>
+    <id>com.mobisystems.msdict.embedded.wireless.mcgrawhill.engspmedical.full</id>
+    <id>com.smartleges.doc.usct06</id>
+    <id>com.guidebook.apps.SCGuide.android</id>
+    <id>com.twinklewinkleapps.title29</id>
+    <id>com.twinklewinkleapps.title13</id>
+    <id>com.twinklewinkleapps.title23</id>
+    <id>com.usc.tablet</id>
+    <id>com.smartleges.doc.usct07</id>
+    <id>com.twinklewinkleapps.title43</id>
+    <id>com.smartleges.doc.usct20</id>
+    <id>com.smartleges.doc.usct08</id>
+    <id>com.twinklewinkleapps.title40</id>
+    <id>com.twinklewinkleapps.title26</id>
+    <id>com.fbsuscv2</id>
+    <id>com.gameinnovationlab.wr66</id>
+    <id>com.smartleges.doc.usct15</id>
+    <id>eu.phonetax</id>
+    <id>com.usc.freaknight</id>
+    <id>com.twothumbz.gamedayallinone</id>
+    <id>com.usc.paradiso</id>
+    <id>com.spreedinc.providers.digitalfirstmedia.ladailynews</id>
+    <id>edu.usc.danielcantwell.converter</id>
+    <id>com.conduit.app_e49bf628fbf74d22982e204dc35aad90.app</id>
+    <id>com.kpt.south_carolina</id>
+    <id>com.purpella.android</id>
+    <id>com.alaskajim.collegefootball</id>
+    <id>com.pusacal01</id>
+    <id>com.TempletonNeurology.MemoryZoo</id>
+    <id>com.midnightpacific.usc</id>
+    <id>com.smartleges.doc.usct02</id>
+    <id>com.coolappz.Indicadores_Economicos_Colombia</id>
+    <id>com.twothumbz.CollegeFightSong_Android_SouthCarolina</id>
+    <id>com.twinklewinkleapps.title47</id>
+    <id>irain.app</id>
+    <id>com.twinklewinkleapps.title18</id>
+    <id>com.twinklewinkleapps.title42</id>
+    <id>com.ionicframework.whatsmypay661609</id>
+    <id>com.collegesportsnews.southcarolinafootballnews</id>
+    <id>com.scripps.independentmail.mobile</id>
+    <id>com.smartleges.doc.usct21</id>
+    <id>com.uniwifi</id>
+    <id>com.udemy.android.sa.codingForEntrepreneu</id>
+    <id>com.keitgames.narwhal</id>
+    <id>com.app_caseyrise.layout</id>
+    <id>com.ogxapps.ipass</id>
+    <id>com.smartleges.doc.usct12</id>
+    <id>pmcheng.radqrcode</id>
+</allowed>
